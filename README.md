@@ -1,6 +1,6 @@
 #### An examination of how the number of classes influences prediction accuracy in machine learning.
 
-In the example below, hypothetical datasets are generated with varying numbers of classes ranging from 2 to 100. Subsequently, these datasets are attempted to be classified using different machine learning algorithms. In this context, the aim is to identify potential effects of the number of classes on the overall performance.
+In the example below, hypothetical datasets are generated with varying numbers of classes ranging from 2 to 64. Subsequently, these datasets are attempted to be classified using different machine learning algorithms. In this context, the aim is to identify potential effects of the number of classes on the overall performance.
 Classification methods:
 
  - Decision Tree Classifier
